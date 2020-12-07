@@ -125,3 +125,18 @@ color: #fff;
 	border-bottom-color:transparent;
 
 }
+.write{
+	background-color: #EAEC98;
+}
+.head{
+	color:blue;
+	margin: 20px;
+	padding: 10px;
+	
+	
+}
+.goal{
+	color:black;
+	margin: 20px;
+	
+}
