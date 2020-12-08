@@ -8,6 +8,13 @@
 .Home-container{
     background-color:antiquewhite;
 }
+.Reading-container{
+	background-color:darkcyan;}
+.news-container{
+	background-color:aquamarine;
+	margin:0;
+	padding:12px 13px;
+}
 #menu, #menu ul{
 	margin:0;
 	padding:0;

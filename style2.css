@@ -8,6 +8,9 @@
 .Home-container{
     background-color:antiquewhite;
 }
+.Reading-container{
+	background-color:darkcyan;
+}
 #menu, #menu ul{
 	margin:0;
 	padding:0;
