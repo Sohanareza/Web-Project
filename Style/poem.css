@@ -1,0 +1,37 @@
+
+body{
+    margin:0;
+    padding:0;
+
+    background-color:lightgreen;
+    
+}
+
+
+.poems-container{
+    font-family: sans-serif;
+    width:20%%;
+    height:20%;
+    display: block;
+    position:absolute;
+    background-color:darksalmon;
+    
+    
+}
+.list-container{
+    content: '';
+	position: absolute;
+	left: 40px;
+	top: -6px;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+
+
+
+}
+.life{
+	color:black;
+    margin: 20px;
+  text-align:center;
+padding:20px;
+}
