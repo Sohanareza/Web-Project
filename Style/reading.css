@@ -224,6 +224,19 @@ color: #fff;
 	
 	text-align:center;
     
+}
+.class-container{
+	
+	width:110%;
+    height:100%;
+    display:block;
+	position:absolute;
+	background-color:lightblue;
+	padding:12px 13px;
+	margin:50px ;
+	text-align:center;
+	
+	box-shadow:1px 1px 0 #111,0 2px 0 #666;
 
 }
 
