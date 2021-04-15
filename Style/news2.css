@@ -6,6 +6,7 @@
 body{
     padding:0;
     margin:0;
+    background-color:darkslategrey;
 
 }
 header{
@@ -188,3 +189,7 @@ nav ul{
     margin:auto;
 }
 
+.img1{
+    background: url("https://img.freepik.com/free-vector/raised-hands-volunteering-blue-background-vector_77417-471.jpg?size=626&ext=jpg");
+    min-height:100%;
+}
